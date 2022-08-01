@@ -1,0 +1,8 @@
+﻿  arhiv.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Professional\Desktop\учеба\тк\архиватор\arhiv\arhiv\arhiv.cpp(98,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 698 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  arhiv.vcxproj -> C:\Users\Professional\Desktop\учеба\тк\архиватор\arhiv\Release\arhiv.exe

@@ -1,0 +1,5 @@
+﻿  arhiv.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Professional\Desktop\учеба\тк\архиватор\arhiv\arhiv\arhiv.cpp(98,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\Desktop\учеба\тк\архиватор\arhiv\arhiv\arhiv.cpp(116,17): warning C4552: ">>": результат выражения не используется
+  arhiv.vcxproj -> C:\Users\Professional\Desktop\учеба\тк\архиватор\arhiv\Debug\arhiv.exe
